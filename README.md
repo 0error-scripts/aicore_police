@@ -5,7 +5,7 @@ Police Job for QBOX :police_officer:
 
 
 ## Dependencies
-- [aicore](https://github.com/0error-scripts/aicore)
+- [aicore](https://github.com/aicore-fivem/aicore)
 - [ox_lib](https://github.com/communityox/ox_lib) - For UI elements and cached data
 
 ## Screenshots

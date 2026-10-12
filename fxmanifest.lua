@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'aicore_policejob'
 description 'Police system for Aicore'
-repository 'https://github.com/0error-scripts/aicore_policejob'
+repository 'https://github.com/aicore-fivem/aicore_policejob'
 version '1.0.0'
 
 ox_lib 'locale'
